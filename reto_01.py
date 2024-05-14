@@ -26,4 +26,6 @@ print(type(my_integer))
 print(type(my_float))
 print(type(my_string))
 print(type(my_boolean))
-#print("Este el primer reto y sus impresiones entero {}, flotante {}, string {} y boolean {}".format(my_integer, my_float, my_string, my_boolean))
+print("Este el primer reto y sus impresiones entero {}, flotante {}, string {} y boolean {}".format(my_integer, my_float, my_string, my_boolean))
+
+print('FIN DEL RETO')
